@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto";
+}
+
+table tr:nth-child(2) {
+  color: blue;
+}
+table tr:nth-child(3) {
+  color: yellow;
+}
+table tr:nth-child(4) {
+  color: palevioletred;
+}
+table tr td:nth-child(1) {
+  color: black;
+}
